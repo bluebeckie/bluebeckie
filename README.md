@@ -1,4 +1,9 @@
+
+
 ## Hi there 👋
+
+Welcome to Beckie's playground
+![Header](./github-profile.png)
 
 <!--
 **bluebeckie/bluebeckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
